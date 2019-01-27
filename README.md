@@ -1,8 +1,6 @@
 # SimpleCalculator
 
-This project is part of Introduction to Android workshop. The excrice is a Simple Calculator app 
-that "Plus", "Minus" and "Multiplication" two numbers. This excrsis aims to intrdouce Java data types, 
-casting and operations within the Android enviroment.
+This project is part of Introduction to Android workshop. The exercise is a Simple Calculator app that "Plus", "Minus" and "Multiplication" two numbers. This exercise aims to introduce Java data types, casting and operations within the Android environment
 
 # Steps to re-create 
 1. Create a new project in Android Studio (Choose the Empty Activity)
