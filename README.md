@@ -1,11 +1,11 @@
 # SimpleCalculator
 
-This project is part of Introduction to Android workshop. The exercise is a Simple Calculator app that "Plus", "Minus" and "Multiplication" two numbers. This exercise aims to introduce Java data types, casting and operations within the Android environment
+This project is part of the Introduction to Android workshop. The exercise is a Simple Calculator app with "Plus," "Minus," and "Multiplication" two numbers. This exercise introduces Java data types, casting, and operations within the Android environment.
 
 # Steps to re-create 
 1. Create a new project in Android Studio (Choose the Empty Activity)
 2. Navigate to app/res/layout/activity_main.xml
-3. Open the Text view and the replace the xml code with the below code 
+3. Open the Text view, and the replace the XML code with the below code 
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The Constraint Layout was changed to Linuer Layout + Orientation was added in the attributes -->
@@ -96,7 +96,7 @@ This project is part of Introduction to Android workshop. The exercise is a Simp
 </LinearLayout>
 ```
 4. Open the java file for the main activity by opening the MainActivity.java from the following path app/java/"The first folder"/MainActivity.java 
-5. Replace the code in that file with the below code ("Dont remove the first line starting with package")
+5. Replace the code in that file with the below code ("Don't remove the first line starting with the package")
 ```
 
 import android.support.v7.app.AppCompatActivity;
